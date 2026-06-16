@@ -1,0 +1,12 @@
+{
+  "name": "squawk",
+  "version": "1.0.0",
+  "description": "Your zenith, live.",
+  "scripts": {
+    "start": "npx serve public --listen 3000 --no-clipboard",
+    "dev": "npx serve public --listen 3000"
+  },
+  "dependencies": {
+    "serve": "^14.0.0"
+  }
+}
